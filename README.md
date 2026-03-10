@@ -65,7 +65,7 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for mor
    You can contribute by submitting issues and pull requests on GitHub!
 
 ## Author Information
-This project is maintained by MarkBoben.
+This project is maintained by Mark Boben.
 
 ---
 
